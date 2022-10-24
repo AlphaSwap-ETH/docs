@@ -9,3 +9,9 @@
 ## 🪙 AlphaSwap ($ALPHA) Token
 
 [AlphaSwap.cc](https://alphaswap.cc) is a ...
+
+### ⭐️ Follow Us:
+
+- 🐦: https://twitter.com/AlphaSwapCC
+- 👾: https://github.com/AlphaSwap-cc
+- 🌐: http://www.alphaswap.cc/
