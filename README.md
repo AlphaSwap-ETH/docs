@@ -1,6 +1,6 @@
 # AlphaSwap.cc ✨ Docs 🔴
 
-![ALPHASWAP CC](https://user-images.githubusercontent.com/113842155/197447504-7e08fac9-6062-481c-b5fe-21530de822aa.png)
+![ALPHASWAP CC](https://user-images.githubusercontent.com/113842155/198296180-945d5836-d7f3-4853-bd68-5fef7c8571b8.png)
 
 [AlphaSwap.cc](https://alphaswap.cc) is a ...
 
