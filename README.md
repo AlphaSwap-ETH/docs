@@ -4,11 +4,11 @@
 
 [AlphaSwap.cc](https://alphaswap.cc) is a ...
 
-## AlphaSwap Protocol 🔻 | Solving Liquidity for DeFi. 🏦
+## 🏦 AlphaSwap Protocol - Solving Liquidity for DeFi:
 
 [AlphaSwap.cc](https://alphaswap.cc) is a ...
 
-## 🪙 AlphaSwap ($ALPHA) Token
+## 🪙 AlphaSwap ($ALPHA) Token:
 
 [AlphaSwap.cc](https://alphaswap.cc) is a ...
 
